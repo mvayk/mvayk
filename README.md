@@ -1,4 +1,4 @@
-# Hi, I'm mvayk 👋
+# Hi, I'm mvayк 👋
 
 > *the proof is in the pudding*
 
