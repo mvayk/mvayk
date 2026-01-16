@@ -1,6 +1,6 @@
 # Hi, I'm mvayк 👋
 
-> *the proof is in the pudding*
+> "...Having offered our body to the spirits, there is no longer any need to care about it. We should really visualise our blood as an ocean for the spirits to drink, our body as food for the spirits to eat. It is for the sake of all mother sentient beings that we give up our body." - Kyabje Zong Rinpoche
 
 ---
 
