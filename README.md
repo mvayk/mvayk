@@ -19,7 +19,7 @@
 - [dotfiles](https://github.com/mvayk/dotfiles)  
   Customizations for my workflow, shared for fellow tinkerers.
 
-- [pyproject](https://github.com/mvayk/pyproject)  
+- [damien](https://github.com/mvayk/damien)  
   Python experiments and utilities.
 
 - [holyc_linux](https://github.com/mvayk/holyc_linux)  
